@@ -1,4 +1,4 @@
-# Automated Detection of Injection Vulnerabilities in Web Applications
+# Automated Detection of Injection Vulnerabilities in Web Applications Using Python
 
 ## Overview
 This project is a Python-based automated vulnerability scanner designed to detect
